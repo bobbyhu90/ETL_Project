@@ -1,0 +1,4 @@
+drop table sales_2019
+drop table rental_2019
+drop table combined_2019
+
