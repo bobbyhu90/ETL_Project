@@ -1,4 +1,4 @@
-drop table Rent_Sales_2019
+drop table "Rent_Sales_2019"
 
 CREATE TABLE "Rent_Sales_2019" (
     "RegionName" VARCHAR(20)   NOT NULL,
@@ -32,3 +32,5 @@ CREATE TABLE "Rent_Sales_2019" (
         "RegionName"
      )
 );
+
+select * from "Rent_Sales_2019"
